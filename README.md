@@ -24,7 +24,7 @@ Currently optimized for **ESP32** ecosystems, it combines a robust Serial Consol
 
 ## Key Features
 
-### 🔌 Advanced Serial Monitor
+### Advanced Serial Monitor
 - **Clean UI**: Modern, dark-themed interface focused on readability.
 - **Custom Baud Rates**: Support for standard and non-standard baud rates.
 - **Quick Macros**: Send pre-defined commands (RST, HELP, JSON) with a single click.
