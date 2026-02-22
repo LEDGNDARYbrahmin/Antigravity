@@ -17,8 +17,8 @@
 
 Currently optimized for **ESP32** ecosystems, it combines a robust Serial Console with advanced device management features like Filesystem exploration (SPIFFS/LittleFS). 
 
-> **Current Status**: Windows Supported | ESP32 Optimized
-> **Coming Soon**: macOS/Linux Support | Universal Board Support (Arduino, STM32, etc.)
+> **Current Status**: Windows/macOS/Linux Supported | ESP32 Optimized
+> **Coming Soon**: Universal Board Support (Arduino, STM32, etc.)
 
 ---
 
@@ -39,12 +39,9 @@ Currently optimized for **ESP32** ecosystems, it combines a robust Serial Consol
 
 ## Download & Installation
 
-### Windows (Currently Supported)
-1. Download the latest installer: **[AntigravityMonitor-Setup.exe](https://github.com/LEDGNDARYbrahmin/Antigravity-Cascade/releases/latest/download/AntigravityMonitor-Setup.exe)**
-2. Run the `.exe`.
-
-### macOS & Linux (Roadmap)
-Support for macOS (.dmg) and Linux (.AppImage/.deb) is currently in development.
+### Windows Mac OS and Linux (Currently Supported)
+1. Download the latest installer: **[AntigravityMonitor-Setup.exe](https://github.com/LEDGNDARYbrahmin/Antigravity-Cascade/releases)**
+2. Run the dedicated application for Supported for your machine
 
 ---
 
@@ -53,8 +50,8 @@ Support for macOS (.dmg) and Linux (.AppImage/.deb) is currently in development.
 We are actively working on expanding Antigravity Monitor to be the universal tool for all embedded developers.
 
 - [x] **Windows Support**
-- [ ] **macOS Support** (Coming Soon)
-- [ ] **Linux Support** (Coming Soon)
+- [X] **macOS Support**
+- [X] **Linux Support**
 - [x] **ESP32 Support** (LittleFS, SPIFFS, FATFS)
 - [ ] **Universal Board Support** (Arduino, STM32, RP2040, etc.)
 - [ ] **Plotter**: Real-time data plotting.
@@ -63,7 +60,7 @@ We are actively working on expanding Antigravity Monitor to be the universal too
 
 ## Requirements
 
-- **OS**: Windows 10 or Windows 11 (64-bit).
+- **OS**: Windows 10 or Windows 11 (64-bit), Mac OS and Linux.
 - **Hardware**: ESP32 recommended for full feature set. Standard Serial functionality works with most COM devices.
 
 ---
