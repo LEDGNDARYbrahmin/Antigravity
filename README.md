@@ -39,8 +39,8 @@ Currently optimized for **ESP32** ecosystems, it combines a robust Serial Consol
 
 ## Download & Installation
 
-### Windows Mac OS and Linux (Currently Supported)
-1. Download the latest installer: **[AntigravityMonitor-Setup.exe](https://github.com/LEDGNDARYbrahmin/Antigravity-Cascade/releases)**
+### Windows, Mac OS and Linux (Currently Supported)
+1. Download the latest installer: **[AntigravityMonitor_releases](https://github.com/LEDGNDARYbrahmin/Antigravity-Cascade/releases)**
 2. Run the dedicated application for Supported for your machine
 
 ---
